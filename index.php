@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IG Hotel</title>
+    <title>IG Hotel - Beranda</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
     <?php require('inc/links.php'); ?>
   </head>
@@ -235,6 +235,15 @@
           </span>
           <span class="badge rounded-pill bg-light text-dark text-wrap">
             Cewe Tobrut
+          </span>
+         </div>
+         <div class="guests mb-4">
+          <h6 class="mb-1">Tamu</h6>
+          <span class="badge rounded-pill bg-light text-dark text-wrap">
+            5 Dewasa
+          </span>
+          <span class="badge rounded-pill bg-light text-dark text-wrap">
+            5 Anak-Anak
           </span>
          </div>
          <div class="rating mb-4">

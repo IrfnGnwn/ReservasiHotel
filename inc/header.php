@@ -8,19 +8,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active me-2" aria-current="page" href="#">Beranda</a>
+          <a class="nav-link active me-2" aria-current="page" href="index.php">Beranda</a>
         </li>
         <li class="nav-item">
           <a class="nav-link me-2" href="#">Kamar</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link me-2" href="#">Fasilitas</a>
+          <a class="nav-link me-2" href="facilities.php">Fasilitas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link me-2" href="#">Kontak</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Tentang</a>
+          <a class="nav-link" href="about.php">Tentang</a>
         </li>
       </ul>
       <div class="d-flex">
